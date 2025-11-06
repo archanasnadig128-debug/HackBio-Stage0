@@ -12,7 +12,7 @@ This study examines how single-cell data has transformed our understanding of ca
 
 Cancer progression mirrors Darwinian evolution, where selective pressures such as hypoxia, immune surveillance, and therapeutic stress drive clonal diversification (Greaves & Maley, 2012). Single-cell studies show that genetic and transcriptomic variability among tumor cells underpins adaptability and survival under treatment stress (Davis et al., 2020). By resolving cellular hierarchies and differentiation trajectories, scRNA-seq enables tracing of clonal evolution and elucidation of how microenvironmental cues shape selection dynamics (Huang et al., 2023).
 
-![Diagram1](https://github.com/LuciaUchegbu/Hackbio_StageZero/raw/main/Diagram%201.png)
+![Diagram1](https://github.com/archanasnadig128-debug/HackBio-Stage0/blob/0f38f10e52711ede08fe4b442b5ef3dd88d8db5c/Diagram%201.png)
 
 Figure 1:  Tumor evolution and intratumor heterogeneity. Adapted from Sabaawy (2013).
 
