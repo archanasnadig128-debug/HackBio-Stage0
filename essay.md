@@ -26,7 +26,7 @@ The standard scRNA-seq workflow includes sample preparation, cell isolation, rev
 
 Subsequent bioinformatics pipelines include quality control, normalization, clustering, differential expression, and trajectory inference to explore cellular heterogeneity and lineage relationships. Challenges such as dropout events and batch effects are addressed using computational corrections (Stuart et al., 2019).
 
-![Diagram2](https://github.com/LuciaUchegbu/Hackbio_StageZero/blob/main/Diagram%202.png)
+![Diagram2](https://github.com/archanasnadig128-debug/HackBio-Stage0/blob/d203180bc086b7ba2edc24bed023c4ccffafc6bd/Diagram%202.png)
 
 Figure 2: Workflow of single-cell RNA sequencing (scRNA-seq) techniques (Tang et al., 2009).
 
